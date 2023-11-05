@@ -1,2 +1,2 @@
 # CS31
-Project 3
+CS Projects
